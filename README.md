@@ -5,5 +5,3 @@
 - 💬 You can reach me out on Kubernetes Slack with handle @swan
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ankitasw)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitasw&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
