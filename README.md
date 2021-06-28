@@ -4,8 +4,10 @@
 - 💞️ I’m looking to collaborate on SIG cluster lifecycle
 - 💬 You can reach me out on Kubernetes Slack with handle @swan
 
+### GitHub Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ankitasw)
 
+### GitHub Activity 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
