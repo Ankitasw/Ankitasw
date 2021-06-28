@@ -5,3 +5,7 @@
 - 💬 You can reach me out on Kubernetes Slack with handle @swan
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ankitasw)
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
