@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ankita Swamy ![](https://komarev.com/ghpvc/?username=Ankitasw&color=blue)
+### 👋 Hi, I’m Ankita Swamy 
+![](https://komarev.com/ghpvc/?username=Ankitasw&color=blue)
 - 💼 I am working as Member of Technical Staff at VMware
 - 👀 I have recently started contributing to SIG cluster lifecycle 
 - 💞️ I’m looking to collaborate on SIG cluster lifecycle
