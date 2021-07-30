@@ -10,9 +10,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1478](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/1478) in [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
+1. 🗣 Commented on [#2625](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2625) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 2. 🗣 Commented on [#1478](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/1478) in [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
-3. 💪 Opened PR [#1550](https://github.com/kubernetes-sigs/cluster-api-provider-azure/pull/1550) in [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
-4. 🗣 Commented on [#1478](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/1478) in [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
-5. 🗣 Commented on [#1529](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/1529) in [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
+3. 🗣 Commented on [#1478](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/1478) in [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
+4. 💪 Opened PR [#1550](https://github.com/kubernetes-sigs/cluster-api-provider-azure/pull/1550) in [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
+5. 🗣 Commented on [#1478](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/1478) in [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
 <!--END_SECTION:activity-->
