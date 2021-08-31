@@ -10,9 +10,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2720](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2720) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#1033](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/issues/1033) in [kubernetes-sigs/aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
-3. 🗣 Commented on [#1033](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/issues/1033) in [kubernetes-sigs/aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
-4. 🗣 Commented on [#2715](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2715) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. ❗️ Opened issue [#1033](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/issues/1033) in [kubernetes-sigs/aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
+1. 🗣 Commented on [#2722](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2722) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 💪 Opened PR [#2722](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/2722) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#2720](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2720) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#1033](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/issues/1033) in [kubernetes-sigs/aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
+5. 🗣 Commented on [#1033](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/issues/1033) in [kubernetes-sigs/aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
 <!--END_SECTION:activity-->
