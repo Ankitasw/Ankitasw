@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m Ankita Swamy 
 
 - 💼 I am working as Member of Technical Staff at VMware
-- 👀 I have recently started contributing to SIG cluster lifecycle 
-- 💞️ I’m looking to collaborate on SIG cluster lifecycle
+- 👀 I am an active contributor to SIG cluster lifecycle 
+- 💞️ I’m looking to collaborate on Kubernetes and SIGs
 - 💬 You can reach me out on Kubernetes Slack with handle @swan
 
 ### GitHub Stats
