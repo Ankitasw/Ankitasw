@@ -10,9 +10,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1747](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/1747) in [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
-2. 🗣 Commented on [#2837](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2837) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#6126](https://github.com/kubernetes/community/issues/6126) in [kubernetes/community](https://github.com/kubernetes/community)
-4. 🗣 Commented on [#6112](https://github.com/kubernetes/community/issues/6112) in [kubernetes/community](https://github.com/kubernetes/community)
-5. 💪 Opened PR [#1747](https://github.com/kubernetes-sigs/cluster-api-provider-azure/pull/1747) in [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
+1. 🗣 Commented on [#2843](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2843) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#2838](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2838) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#2843](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2843) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#2843](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2843) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 💪 Opened PR [#2843](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/2843) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
