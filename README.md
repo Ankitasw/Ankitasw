@@ -10,9 +10,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2919](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2919) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#2919](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2919) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#2919](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2919) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 💪 Opened PR [#2919](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/2919) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 💪 Opened PR [#24272](https://github.com/kubernetes/test-infra/pull/24272) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+1. 💪 Opened PR [#2923](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/2923) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#2921](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2921) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#2922](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2922) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#2919](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2919) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#2919](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2919) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
