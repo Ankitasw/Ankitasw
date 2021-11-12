@@ -10,9 +10,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2866](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2866) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#2933](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2933) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#24304](https://github.com/kubernetes/test-infra/issues/24304) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-4. 💪 Opened PR [#24304](https://github.com/kubernetes/test-infra/pull/24304) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-5. 🗣 Commented on [#1747](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/1747) in [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
+1. 🗣 Commented on [#24336](https://github.com/kubernetes/test-infra/issues/24336) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+2. 💪 Opened PR [#24336](https://github.com/kubernetes/test-infra/pull/24336) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+3. 💪 Opened PR [#2946](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/2946) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 💪 Opened PR [#24334](https://github.com/kubernetes/test-infra/pull/24334) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+5. 🗣 Commented on [#2866](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2866) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
