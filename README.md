@@ -10,9 +10,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24631](https://github.com/kubernetes/test-infra/issues/24631) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-2. 🗣 Commented on [#3028](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3028) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3029](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3029) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3027](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3027) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3002](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3002) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3034](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3034) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#24631](https://github.com/kubernetes/test-infra/issues/24631) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+3. 🗣 Commented on [#3028](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3028) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3029](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3029) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#3027](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3027) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
