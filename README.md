@@ -10,9 +10,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3221](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3221) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3197](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3197) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3202](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3202) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#7292](https://github.com/google/oss-fuzz/issues/7292) in [google/oss-fuzz](https://github.com/google/oss-fuzz)
-5. 🗣 Commented on [#3195](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3195) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#1450](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/issues/1450) in [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
+2. 🗣 Commented on [#3233](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3233) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3233](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3233) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3233](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3233) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#3232](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3232) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
