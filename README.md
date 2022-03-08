@@ -10,9 +10,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#800](https://github.com/kubernetes-sigs/image-builder/issues/800) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-2. ❗️ Opened issue [#3282](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3282) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#800](https://github.com/kubernetes-sigs/image-builder/issues/800) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-4. 🗣 Commented on [#800](https://github.com/kubernetes-sigs/image-builder/issues/800) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-5. 🗣 Commented on [#3259](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3259) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3288](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3288) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. ❗️ Opened issue [#3288](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3288) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3081](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3081) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3284](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3284) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#800](https://github.com/kubernetes-sigs/image-builder/issues/800) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
 <!--END_SECTION:activity-->
