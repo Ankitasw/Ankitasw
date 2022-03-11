@@ -10,9 +10,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3298](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3298) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3223](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3223) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#1469](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/issues/1469) in [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
-4. ❗️ Opened issue [#1469](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/issues/1469) in [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
-5. 🗣 Commented on [#3298](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3298) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3300](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3300) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3298](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3298) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3223](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3223) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#1469](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/issues/1469) in [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
+5. ❗️ Opened issue [#1469](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/issues/1469) in [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
 <!--END_SECTION:activity-->
