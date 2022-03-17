@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Ankita Swamy 
+### Hi, I’m Ankita Swamy <img src="svg/wave.gif" width="25px"> 
 
 - 💼 I am working as Member of Technical Staff at VMware
 - 👀 I am an active contributor to SIG cluster lifecycle 
@@ -16,3 +16,12 @@
 4. 🗣 Commented on [#3324](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3324) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 5. 🗣 Commented on [#3257](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3257) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
+
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+
+[1.2]: <img src="svg/linkedin.svg" width="25px">
+[2.2]: <img src="svg/twitter.svg" width="25px">
+
+[1]: https://twitter.com/SwamyAnkita
+[2]: https://www.linkedin.com/in/Ankitaswamy
