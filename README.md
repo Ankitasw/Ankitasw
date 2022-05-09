@@ -12,8 +12,8 @@
 ### GitHub Activity 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3463](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3463) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3063](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3063) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3457](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3457) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 💪 Opened PR [#521](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost/pull/521) in [vmware-tanzu/cluster-api-provider-bringyourownhost](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost)
-5. 🗣 Commented on [#3459](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3459) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3463](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3463) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3063](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3063) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3457](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3457) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 💪 Opened PR [#521](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost/pull/521) in [vmware-tanzu/cluster-api-provider-bringyourownhost](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost)
 <!--END_SECTION:activity-->
