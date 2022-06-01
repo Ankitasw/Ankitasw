@@ -1,4 +1,4 @@
-### Hi, I’m Ankita Swamy <img src="svg/wave.gif" width="2px"> 
+### Hi, I’m Ankita Swamy <img src="svg/wave.gif"> 
 
 - 💼 I am working as Member of Technical Staff at VMware
 - 👀 I am an active contributor to SIG cluster lifecycle 
