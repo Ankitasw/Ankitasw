@@ -11,9 +11,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#595](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost/issues/595) in [vmware-tanzu/cluster-api-provider-bringyourownhost](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost)
-2. 🗣 Commented on [#3519](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3519) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. ❗️ Closed issue [#3295](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3295) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3422](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3422) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3481](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3481) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3443](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3443) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#595](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost/issues/595) in [vmware-tanzu/cluster-api-provider-bringyourownhost](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost)
+3. 🗣 Commented on [#3519](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3519) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. ❗️ Closed issue [#3295](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3295) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#3422](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3422) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
