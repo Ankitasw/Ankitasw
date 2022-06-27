@@ -12,8 +12,8 @@
 ### GitHub Activity 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3526](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3526) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. ❗️ Closed issue [#580](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost/issues/580) in [vmware-tanzu/cluster-api-provider-bringyourownhost](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost)
-3. 🎉 Merged PR [#599](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost/pull/599) in [vmware-tanzu/cluster-api-provider-bringyourownhost](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost)
-4. 🗣 Commented on [#3512](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3512) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. ❌ Closed PR [#3545](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3545) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3556](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3556) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3526](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3526) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. ❗️ Closed issue [#580](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost/issues/580) in [vmware-tanzu/cluster-api-provider-bringyourownhost](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost)
+5. 🎉 Merged PR [#599](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost/pull/599) in [vmware-tanzu/cluster-api-provider-bringyourownhost](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost)
 <!--END_SECTION:activity-->
