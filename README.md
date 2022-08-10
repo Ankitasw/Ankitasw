@@ -11,9 +11,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3660](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3660) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 💪 Opened PR [#3661](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3661) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 2. 🗣 Commented on [#388](https://github.com/NVIDIA/gpu-operator/issues/388) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
 3. 🗣 Commented on [#388](https://github.com/NVIDIA/gpu-operator/issues/388) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
-4. 🗣 Commented on [#388](https://github.com/NVIDIA/gpu-operator/issues/388) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
+4. 🗣 Commented on [#3660](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3660) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 5. 🗣 Commented on [#388](https://github.com/NVIDIA/gpu-operator/issues/388) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
 <!--END_SECTION:activity-->
