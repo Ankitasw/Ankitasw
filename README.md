@@ -11,9 +11,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3661](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3661) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#388](https://github.com/NVIDIA/gpu-operator/issues/388) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
-3. 🗣 Commented on [#388](https://github.com/NVIDIA/gpu-operator/issues/388) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
-4. 💪 Opened PR [#3661](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3661) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. ❗️ Closed issue [#388](https://github.com/NVIDIA/gpu-operator/issues/388) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
+2. 🗣 Commented on [#3661](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3661) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3661](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3661) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3661](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3661) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 5. 🗣 Commented on [#388](https://github.com/NVIDIA/gpu-operator/issues/388) in [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
 <!--END_SECTION:activity-->
