@@ -11,9 +11,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3749](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3749) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3749](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3749) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3758](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3758) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3754](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3754) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3431](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3431) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3754](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3754) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3754](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3754) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3754](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3754) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3759](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3759) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#3749](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3749) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
