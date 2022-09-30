@@ -12,8 +12,8 @@
 ### GitHub Activity 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#988](https://github.com/kubernetes-sigs/image-builder/issues/988) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-2. 💪 Opened PR [#988](https://github.com/kubernetes-sigs/image-builder/pull/988) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-3. 🗣 Commented on [#987](https://github.com/kubernetes-sigs/image-builder/issues/987) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-4. 🗣 Commented on [#987](https://github.com/kubernetes-sigs/image-builder/issues/987) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-5. ❗️ Opened issue [#987](https://github.com/kubernetes-sigs/image-builder/issues/987) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
+2. 🗣 Commented on [#3753](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3753) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#988](https://github.com/kubernetes-sigs/image-builder/issues/988) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
+4. 💪 Opened PR [#988](https://github.com/kubernetes-sigs/image-builder/pull/988) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
+5. 🗣 Commented on [#987](https://github.com/kubernetes-sigs/image-builder/issues/987) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
 <!--END_SECTION:activity-->
