@@ -11,9 +11,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3779](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3779) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3780](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3780) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3777](https://github.com/kubernetes/org/issues/3777) in [kubernetes/org](https://github.com/kubernetes/org)
-4. 🗣 Commented on [#3256](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3256) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 💪 Opened PR [#3674](https://github.com/vmware-tanzu/tanzu-framework/pull/3674) in [vmware-tanzu/tanzu-framework](https://github.com/vmware-tanzu/tanzu-framework)
+1. 🗣 Commented on [#3786](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3786) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3788](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3788) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3785](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3785) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3754](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3754) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#3771](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3771) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
