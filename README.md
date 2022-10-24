@@ -11,9 +11,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3649](https://github.com/vmware-tanzu/tanzu-framework/pull/3649) in [vmware-tanzu/tanzu-framework](https://github.com/vmware-tanzu/tanzu-framework)
-2. 🗣 Commented on [#3790](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3790) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3768](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3768) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3754](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3754) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3776](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3776) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. ❌ Closed PR [#3649](https://github.com/vmware-tanzu/tanzu-framework/pull/3649) in [vmware-tanzu/tanzu-framework](https://github.com/vmware-tanzu/tanzu-framework)
 4. 🗣 Commented on [#3790](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3790) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 💪 Opened PR [#3790](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3790) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#3768](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3768) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
