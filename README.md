@@ -11,9 +11,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3894](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3894) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 💪 Opened PR [#4516](https://github.com/kubernetes/k8s.io/pull/4516) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-3. 🗣 Commented on [#3903](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3903) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3893](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3893) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3901](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3901) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3906](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3906) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3906](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3906) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3540](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3540) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 💪 Opened PR [#3906](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3906) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#3882](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3882) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
