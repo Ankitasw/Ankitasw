@@ -11,9 +11,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3896](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3896) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3913](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3913) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 2. 🗣 Commented on [#3908](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3908) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3896](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3896) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3896](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3896) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3889](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3889) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 💪 Opened PR [#117383](https://github.com/Homebrew/homebrew-core/pull/117383) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+4. 🗣 Commented on [#3911](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3911) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 💪 Opened PR [#3911](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3911) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
