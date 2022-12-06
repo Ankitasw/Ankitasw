@@ -11,9 +11,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3315](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3315) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3890](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3890) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3867](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3867) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3913](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3913) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3914](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3914) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3907](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3907) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3915](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3915) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3911](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3911) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3915](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3915) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#117383](https://github.com/Homebrew/homebrew-core/issues/117383) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 <!--END_SECTION:activity-->
