@@ -11,9 +11,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3945](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3945) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3945](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3945) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#1038](https://github.com/kubernetes-sigs/image-builder/issues/1038) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-4. 🗣 Commented on [#3945](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3945) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 💪 Opened PR [#3945](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3945) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3920](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3920) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3920](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3920) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3920](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3920) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3920](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3920) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#7768](https://github.com/kubernetes-sigs/cluster-api/issues/7768) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
