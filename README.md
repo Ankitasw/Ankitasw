@@ -11,9 +11,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4094](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4094) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3805](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3805) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#4087](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4087) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4087](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4087) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. ❗️ Closed issue [#1149](https://github.com/onsi/ginkgo/issues/1149) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
+1. 🗣 Commented on [#4101](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4101) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#4101](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4101) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#4100](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4100) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#4092](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4092) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 💪 Opened PR [#4100](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4100) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
