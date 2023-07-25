@@ -11,9 +11,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30188](https://github.com/kubernetes/test-infra/pull/30188) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-2. 🗣 Commented on [#4421](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4421#issuecomment-1649287679) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#4421](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4421#issuecomment-1649273516) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 💪 Opened PR [#30186](https://github.com/kubernetes/test-infra/pull/30186) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-5. 🗣 Commented on [#4393](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4393#issuecomment-1647901272) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#4422](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4422#issuecomment-1649732447) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#4422](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4422#issuecomment-1649626291) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. ❌ Closed PR [#4326](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4326) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#30188](https://github.com/kubernetes/test-infra/pull/30188#issuecomment-1649371273) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+5. 💪 Opened PR [#30188](https://github.com/kubernetes/test-infra/pull/30188) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
 <!--END_SECTION:activity-->
