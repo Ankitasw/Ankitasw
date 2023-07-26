@@ -11,9 +11,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4422](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4422#issuecomment-1649732447) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#4422](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4422#issuecomment-1649626291) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. ❌ Closed PR [#4326](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4326) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#30188](https://github.com/kubernetes/test-infra/pull/30188#issuecomment-1649371273) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-5. 💪 Opened PR [#30188](https://github.com/kubernetes/test-infra/pull/30188) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+1. 🗣 Commented on [#4423](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4423#issuecomment-1651115912) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 💪 Opened PR [#4423](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4423) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#4368](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4368#issuecomment-1651093561) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#4422](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4422#issuecomment-1649732447) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#4422](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4422#issuecomment-1649626291) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
