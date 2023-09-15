@@ -11,9 +11,9 @@
 
 ### GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9417](https://github.com/kubernetes-sigs/cluster-api/pull/9417#issuecomment-1719858133) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🚀 Published release [v2.2.2](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/tag/v2.2.2) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#9417](https://github.com/kubernetes-sigs/cluster-api/pull/9417#issuecomment-1719577823) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-4. 🗣 Commented on [#9417](https://github.com/kubernetes-sigs/cluster-api/pull/9417#issuecomment-1719573694) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-5. 🗣 Commented on [#9417](https://github.com/kubernetes-sigs/cluster-api/pull/9417#issuecomment-1719547834) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+1. 🗣 Commented on [#2359](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/pull/2359#issuecomment-1720802158) in [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
+2. 🗣 Commented on [#4490](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4490#issuecomment-1720726509) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#4503](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4503#issuecomment-1720725368) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#2359](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/pull/2359#issuecomment-1720724781) in [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
+5. 🗣 Commented on [#2359](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/pull/2359#issuecomment-1720716492) in [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
 <!--END_SECTION:activity-->
